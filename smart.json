@@ -2,7 +2,7 @@
   "name": "glob",
   "description": "Glob wrapped for Meteor",
   "homepage": "https://github.com/sylvaigi/meteor-glob",
-  "author": "Sylvain Gizard",
+  "author": "Sylvain Gizard <sylvain.gizard@gmail.com>",
   "version": "0.1.0",
   "git": "https://github.com/sylvaigi/meteor-glob.git"
 }
