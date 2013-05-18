@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "glob": {
+      "version": "3.1.21",
+      "dependencies": {
+        "minimatch": {
+          "version": "0.2.12",
+          "dependencies": {
+            "lru-cache": {
+              "version": "2.3.0"
+            },
+            "sigmund": {
+              "version": "1.0.0"
+            }
+          }
+        },
+        "graceful-fs": {
+          "version": "1.2.1"
+        },
+        "inherits": {
+          "version": "1.0.0"
+        }
+      }
+    }
+  }
+}
