@@ -4,7 +4,7 @@ Meteor wrapped library [node-glob](https://github.com/isaacs/node-glob) into a s
 
 ## Installation
 
-You need at least version 0.6.0 of Meteor.
+You need at least version 0.6.5 of Meteor.
 
 Meteor Glob can be installed with [Meteorite](https://github.com/oortcloud/meteorite/). From inside a Meteorite-managed app:
 
