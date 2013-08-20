@@ -7,5 +7,6 @@ Npm.depends({
 });
 
 Package.on_use(function (api) {
+  api.export('Glob');
   api.add_files("glob.js", "server");
 });
