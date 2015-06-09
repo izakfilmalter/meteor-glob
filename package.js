@@ -1,5 +1,8 @@
 Package.describe({
-  summary: 'Glob future-wrapped API'
+  summary: 'Glob future-wrapped API',
+  name: 'izakfilmalter:glob',
+  version: '1.0.0',
+  git: 'https://github.com/izakfilmalter/meteor-glob'
 });
 
 Npm.depends({
