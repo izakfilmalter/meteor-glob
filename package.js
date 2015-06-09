@@ -10,6 +10,8 @@ Npm.depends({
 });
 
 Package.onUse(function (api) {
-  api.export('Glob');
+  api.versionsFrom('1.0');
   api.add_files('glob.js', 'server');
+
+  api.export('Glob');
 });
