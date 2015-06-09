@@ -1,8 +1,8 @@
 {
   "name": "glob",
   "description": "Glob wrapped for Meteor",
-  "homepage": "https://github.com/sylvaingi/meteor-glob",
+  "homepage": "https://github.com/izakfilmalter/meteor-glob",
   "author": "Sylvain Gizard <sylvain.gizard@gmail.com>",
-  "version": "0.1.2",
-  "git": "https://github.com/sylvaingi/meteor-glob.git"
+  "version": "0.1.3",
+  "git": "https://github.com/izakfilmalter/meteor-glob.git"
 }

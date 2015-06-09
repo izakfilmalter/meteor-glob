@@ -1,12 +1,12 @@
 Package.describe({
-  summary: "Glob future-wrapped API"
+  summary: 'Glob future-wrapped API'
 });
 
 Npm.depends({
-    "glob": "3.1.21"
+    'glob': '5.0.10'
 });
 
-Package.on_use(function (api) {
+Package.onUse(function (api) {
   api.export('Glob');
-  api.add_files("glob.js", "server");
+  api.add_files('glob.js', 'server');
 });
