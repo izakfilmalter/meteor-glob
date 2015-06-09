@@ -1,7 +1,7 @@
 Package.describe({
   summary: 'Glob future-wrapped API',
   name: 'izakfilmalter:glob',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/izakfilmalter/meteor-glob'
 });
 
